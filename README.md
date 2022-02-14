@@ -28,7 +28,8 @@ refresh the bitmex.com page and wait 10 seconds
 Make sure to click the new volume icon in the trollbox topbar once after each page refresh/browser restart (important to let the browser play audio when in background) .
 
 3. Tired of BitMEX fees?
-Get 10% discount on BitMEX fees by using this link to register
+Get 10% discount on BitMEX fees by using [this link](https://www.bitmex.com/register/cvNJBt) to register
+https://www.bitmex.com/register/cvNJBt
 
 Mutelist.js
 https://gist.github.com/ILoveMexKetchup/f0cac24cb0d655b0775705e1efe2f48c
