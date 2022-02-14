@@ -29,3 +29,10 @@ Make sure to click the new volume icon in the trollbox topbar once after each pa
 
 3. Tired of BitMEX fees?
 Get 10% discount on BitMEX fees by using this link to register
+
+Mutelist.js
+https://gist.github.com/ILoveMexKetchup/f0cac24cb0d655b0775705e1efe2f48c
+
+PercentageButtons.js
+https://gist.github.com/ILoveMexKetchup/6583ad53cb87c711c59bc600b67e2535
+
